@@ -23,7 +23,7 @@ namespace AyugraAPICSharp
             for (int i = 0; i < listOfPipes.Length; i++)
             {
                 
-                if (listOfPipes[i].Contains("AyugraPacket"))
+                if (listOfPipes[i].Contains("AyugraPacketApi_"))
                 {
                     Console.WriteLine(listOfPipes[i]);
                     String[] split = listOfPipes[i].Split('_');
