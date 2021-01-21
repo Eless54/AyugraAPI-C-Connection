@@ -1,2 +1,2 @@
-# AyugraAPI-C-Connection
+# AyugraAPI-CSharp-Connection
 Simple C# connection to AyugraAPI
